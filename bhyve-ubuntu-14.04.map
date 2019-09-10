@@ -1,0 +1,2 @@
+# Location of virtual hard drive
+(hd0) <path to device e.g. /dev/zvol/ssd/bhyve-ubuntu>

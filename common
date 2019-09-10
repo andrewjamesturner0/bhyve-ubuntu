@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+_HOSTNAME=<e.g. linuxguest>
+_NET=<e.g. tap1>
